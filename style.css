@@ -1,4 +1,37 @@
 *
 {
+    background-color: chartreuse;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container
+{
+    display: flex;
+    gap: 10px;
+}
+
+.box
+{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+.box
+{
+    padding: 50px;
+    margin: 0 auto;
+}
+
+p
+{
+    text-align: center;
+    color:aqua
+}
+
+.box
+{
+display: flex;
+justify-content: center;
+align-items: center;
 }
